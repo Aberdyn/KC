@@ -5,13 +5,10 @@
  *
  * Made By MaterializeCSS.com
  */
-nav {
-  background-color:#009688;
-}
 
 nav ul a,
 nav .brand-logo {
-  color: #444;
+  color: #ffffff;
 }
 
 p {
